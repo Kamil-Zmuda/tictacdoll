@@ -5,11 +5,9 @@ YOUTUBE: https://www.youtube.com/watch?v=e_wa6LVl4TQ
 
 # My contribution:
 
-- refactoring the backend into typescript 
-- replacing feedback messages from browser alerts to Modal UI popups
-- added user accounts, related pages, and logic on the frontend and backend
-- added Redux Toolkit slices to facilitate new features
-- various UI / styling improvements
+- Refactored backend into Typescript.
+- Improved user notifications by using modal UI popups, constructed login and register pages, and their corresponding backend components, and added Redux Toolkit slices to facilitate new features.
+- Enhanced user experience with several  user interface and CSS styling improvements.
 
 # Tic Tac Doll Project
 
