@@ -5,7 +5,7 @@ YOUTUBE: https://www.youtube.com/watch?v=e_wa6LVl4TQ
 
 # My contribution:
 
-- Refactored backend into Typescript.
+- Refactored application into Typescript.
 - Improved user notifications by using modal UI popups, constructed login and register pages, and their corresponding backend components, and added Redux Toolkit slices to facilitate new features.
 - Enhanced user experience with several  user interface and CSS styling improvements.
 
